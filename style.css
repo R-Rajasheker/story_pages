@@ -1,0 +1,46 @@
+
+body{
+    background-color:black;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid black;
+    background:
+    border-radius:
+}
+h3{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(234, 241, 241);
+}
+
+
+h1{
+    font-size: 500%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     margin-bottom: 100px;
+    color: rgb(212, 10, 10);
+    text-shadow: 5px 5px 5px rgb(249, 149, 149);
+}
+
+
+img:hover{
+    opacity: 1;
+}
+
+.donkey img{
+      height: 250px;
+      width: auto;
+}
+.lion img{
+    height: 250px;
+    width: auto;
+}
+.wolf img{
+    height: 250px;
+    width: auto;
+}
